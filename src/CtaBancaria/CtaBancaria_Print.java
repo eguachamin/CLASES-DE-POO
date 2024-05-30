@@ -1,7 +1,7 @@
 package CtaBancaria;
 
 import java.util.Scanner;
-
+//EJERCICIO 30-05-2023
 public class CtaBancaria_Print {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in);

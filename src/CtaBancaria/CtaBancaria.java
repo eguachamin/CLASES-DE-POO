@@ -1,5 +1,5 @@
 package CtaBancaria;
-
+//EJERCICIO 30-05-2023
 public class CtaBancaria {
     private int cedula;
     private String nombre;
