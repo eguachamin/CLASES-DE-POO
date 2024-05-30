@@ -1,5 +1,5 @@
 package Clase_Calculos;
-//Ejercicio en clase
+//Ejercicio en clase 30-05-2023
 public class Class_Calculos {
     private double valor1;
     private double valor2;

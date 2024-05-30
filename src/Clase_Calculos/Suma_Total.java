@@ -1,5 +1,5 @@
 package Clase_Calculos;
-//Ejercicio en clase
+//Ejercicio en clase 30-05-2023
 import java.util.Scanner;
 
 public class Suma_Total {
