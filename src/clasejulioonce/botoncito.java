@@ -120,7 +120,7 @@ public class botoncito extends JFrame{
         ResultSet rs = pstmt.executeQuery();
         if (rs.next()){
             String edad =rs.getString("EDAD_ESTU");
-            JOptionPane.showMessageDialog(null,"nombre"+nombre+"edad"+edad);
+            JOptionPane.showMessageDialog(null,"nombre "+nombre+" edad "+edad);
         }
         rs.close();
         connection.close();
