@@ -88,6 +88,7 @@ public class botoncito extends JFrame{
 
         Connection connecta = conexion();
         //Float edad=Float.parseFloat(eda.getText());
+
         String sql= "INSERT INTO ESTUDIANTES (NOMBRE_ESTU,EDAD_ESTU,NOTA1,NOTA2)VALUES(?,?,?,?)";
         PreparedStatement pstmt = connecta.prepareStatement(sql);
         pstmt.setString(1,nombre);
